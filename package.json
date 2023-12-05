@@ -1,0 +1,15 @@
+{
+  "name": "flutter-pipe-test",
+  "version": "1.0.0",
+  "description": "Teste Pipeline Flutter",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "azure-devops-node-api": "^12.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.2"
+  }
+}
